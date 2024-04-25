@@ -1,0 +1,7 @@
+ocp/
+
+datasets/qm9/
+models/
+
+*.pyc
+*.pt
